@@ -28,7 +28,9 @@ Sometimes I play Rimworld / Mindustry / Minecraft
 
 ### 📊 Stats
 
-![Stats](./profile/stats.svg)
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
 
 <p align="center"> 
 <img src="https://streak-stats.demolab.com?user=Sapo534&theme=radical&hide_border=true" />
