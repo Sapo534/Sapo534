@@ -28,10 +28,7 @@ Sometimes I play Rimworld / Mindustry / Minecraft
 
 ### 📊 Stats
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sapo534&show_icons=true&theme=radical&hide_border=true" /> 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapo534&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Stats](./profile/stats.svg)
 
 <p align="center"> 
 <img src="https://streak-stats.demolab.com?user=Sapo534&theme=radical&hide_border=true" />
